@@ -1,7 +1,7 @@
 
 [[index（索引）]]
 
-previous article  
+previous article  [[mode]]
 
 next article  
 
