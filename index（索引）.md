@@ -14,7 +14,7 @@ https://github.com/leiyueoh/claude-code-tutorials
 - 安装过程  [[a-claude code/references/2.installation and configuration/installation|installation]]
 - API配置  [[configuration]]
 
-# 3.functions and usage（功能和使用）
+# 3.basic introduction（基础介绍）
 
 - claude code文件框架  [[document framework（claude code）]]
 - ubuntu、claude code相关指令  [[instructions]]
