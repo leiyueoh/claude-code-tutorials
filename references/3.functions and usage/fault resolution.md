@@ -7,6 +7,15 @@ next article  [[CLAUDE.md]]
 
 ---
 
+**注**：使用 claude update 指令升级时，要保持耐心，切记不要中断了，否则就回出现下面的 ==claude code 故障==
+
+![[fault resolution-3.png]]
+
+- ==更新全程需开启 VPN==
+- 更新时间受更新文件大小、网速影响，尽量耐心一些；实在是卡了很久下策才是中断，然后按照下面指示进行重装
+
+---
+
 # claude code 故障
 
 ==解决 claude code 故障时需全程开启 VPN ，且优先选择新加坡、日本、美国节点==
