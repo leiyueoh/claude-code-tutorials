@@ -25,3 +25,5 @@ https://github.com/leiyueoh/claude-code-tutorials
 - CLAUDE.md介绍以及注意事项  [[CLAUDE.md]]
 - cladue code工作模式  [[mode]]
 - skill介绍以及如何使用如何创建  [[skill]]
+- agent介绍以及如何搭建使用  [[agent]]
+- MCP介绍以及如何使用  [[mcp]]

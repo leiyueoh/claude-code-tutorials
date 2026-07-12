@@ -117,13 +117,11 @@ Claude Code 支持**分层加载**，更具体的文件会覆盖更通用的：
 
 在 [[document framework（claude code）]]中提过，skill 必须存放到 ~/home/user/.claude/skills 这个路径下才能被 claude code 读取到，所以当我们发现不错的 skill 时，就可以把 github 里所对应的网址进行复制粘贴给 claude code 进行处理，让 claude code 直接把 skill 放进这个文件夹里然后后续我们就可以直接在 claude code CLI 界面中直接运行
 
-==不过我已经制作了相应的脚本可以完美处理 skill 的安装==
+==所以我们可以给 claude code 相关的 prompt（提示词）==：
 
 ```
-https://github.com/leiyueoh/clone-skill
+优化 CLAUDE.md：以后所有的 skill 默认存放路径都为 ~/.claude/skill
 ```
-
-将上面的 github 仓库复制给 claude code，它会自动下载脚本并更新 CLAUDE.md
 
 ---
 
@@ -188,7 +186,7 @@ C:\Users\leiyu\Documents\Obsidian 这是我的 obsidian 仓库，写进 CLAUDE.m
 ```
 根据提示更新 CLAUDE.md：
 1、在 ~/home/user 路径下新建 projects 文件夹，后续所有产出的文件都默认存放进这里
-2、https://github.com/leiyueoh/clone-skill，根据项目 REDME.md 进行操作
+2、以后所有的 skill 默认存放路径都为 ~/.claude/skill
 ```
 
 3、需要手动复制 obsidian 仓库路径，然后单独再进行操作

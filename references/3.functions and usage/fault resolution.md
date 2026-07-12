@@ -25,41 +25,71 @@ next article  [[CLAUDE.md]]
 ![[fault resolution-2.png]]
 
 **当在 ubuntu 启动 claude code 时出现上述故障报错**
-- claude：command not found
-- -bash：/home/user/.nvm/versions/node/v18.20.8/bin/claude： No such file or directory
+
+```
+claude：command not found
+-bash：/home/user/.nvm/versions/node/v18.20.8/bin/claude： No such file or directory
+```
+
 ==都是（自动）更新失败或文件缺失造成的==
 
 **可以通过重装 claude code 解决以上问题**：
 
+==**在 ubuntu 里逐条复制粘贴指令回车执行即可**==
+
 **方法一**：
 
 **删除 claude code（历史文件保留）**
+
+```
 npm uninstall -g @anthropic-ai/claude-code
+```
 
 **重新安装**
+
+```
 npm install -g --include=optional @anthropic-ai/claude-code
+```
 
 ==方法一有可能会因为 claude code 有残留程序而导致删除文件失败，那么就使用方法二==
 
 **方法二**：
 
 **关闭现有进程**
+
+```
 pkill -f claude || true
+```
 
 **删除主目录**
+
+```
 rm -rf ~/.nvm/versions/node/v18.20.8/lib/node_modules/@anthropic-ai/claude-code
+```
 
 **删除 npm 残留临时目录**
+
+```
 rm -rf ~/.nvm/versions/node/v18.20.8/lib/node_modules/@anthropic-ai/.claude-code-*
+```
 
 **清理 npm 缓存**
+
+```
 npm cache clean --force
+```
 
 **删除 claude code（历史文件保留）**
+
+```
 npm uninstall -g @anthropic-ai/claude-code
+```
 
 **重新安装**
+
+```
 npm install -g --include=optional @anthropic-ai/claude-code
+```
 
 ---
 

@@ -7,20 +7,6 @@ next article  [[skill]]
 
 ---
 
-[[2026-07-02-claude-code-goal-loop]]
-
-- manual mode
-- plan mode
-	- /plan
-- auto mode
-- accept edits on
-- /goal
-- /loop
-- urtalcode
-claude --dangerously-skip-permissions
-
----
-
 # 1. permission mode（权限控制模式）
 
 ==**以下四个模式（manual mode / accept edits mode / auto mode / plan mode）可以通过 shift + tab 按键组合进行切换**==
