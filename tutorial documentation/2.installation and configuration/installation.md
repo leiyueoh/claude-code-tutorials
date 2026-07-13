@@ -12,14 +12,18 @@ next article  [[configuration]]
 # step1
 ## 运行 powershell-wsl（管理员方式运行）
 
-`wsl --install
+```
+wsl --install
+```
 
 ---
 
 # step2
 ## 安装 ubuntu
 
-`wsl --install -d Ubuntu
+```
+wsl --install -d Ubuntu
+```
 
 首次启动 ubuntu，设置用户名密码
 
@@ -28,7 +32,9 @@ next article  [[configuration]]
 # step3
 ## 更新系统
 
-`sudo apt update && sudo apt upgrade -y
+```
+sudo apt update && sudo apt upgrade -y
+```
 
 ---
 
@@ -36,55 +42,78 @@ next article  [[configuration]]
 ## 安装配置环境
 ### git :  
 
-`sudo apt install git -y
+```
+sudo apt install git -y
+```
 
 ### python:  
 
-`sudo apt install python3 python3-pip -y
+```
+sudo apt install python3 python3-pip -y
+```
 
 ### ==Node.js==
 
-`curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+```
 
-`sudo apt install -y nodejs
+```
+sudo apt install -y nodejs
+```
 
 #### 验证安装
 
-`node --version
+```
+node --version
+```
 
-`npm --version
+```
+npm --version
+```
 
 #### 创建用户自己的全局目录
 
-`mkdir -p \~/.npm-global
+```
+mkdir -p \~/.npm-global
+```
 
 #### 设置 npm 使用这个目录
 
-`npm config set prefix '\~/.npm-global
+```
+npm config set prefix '\~/.npm-global
+```
 
 #### 把路径加入环境变量
 
-`echo 'export PATH=\~/.npm-global/bin:$PATH' >> \~/.bashrc
+```
+echo 'export PATH=\~/.npm-global/bin:$PATH' >> \~/.bashrc
+```
 
-`source \~/.bashrc
-
+```
+source \~/.bashrc
+```
 #### 验证
 
-`echo $PATH
+```
+echo $PATH
+```
 
-`npm config get prefix
+```
+npm config get prefix
+```
 
 ---
 
 # step5
 ## 安装 claude code
 
-`npm install -g @anthropic-ai/claude-code
+```
+npm install -g @anthropic-ai/claude-code
+```
 
 ### 验证是否安装成功
 
-`claude --version
-
----
-
-==**注**：复制指令时注意别复制到符号了==
+```
+claude --version
+```

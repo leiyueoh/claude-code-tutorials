@@ -3,7 +3,7 @@
 
 previous article  [[agent]]
 
-next article
+next article  [[x-article skill]]
 
 ---
 

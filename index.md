@@ -30,4 +30,9 @@ https://github.com/leiyueoh/claude-code-tutorials
 
 # 5. practical projects（实践项目）
 
-- 
+- obsidian 个人数据管理
+	- X（推特）文章存储处理 skill  [[x-article skill]]
+	- obsidian markdown 文档处理 skill  [[obsidian markdown process skill]]
+	- 阶段总结  skill  [[periodic summary skill]]
+	
+- obsidian - claude code 会话数据记录管理  [[obsidian claude code session management]]

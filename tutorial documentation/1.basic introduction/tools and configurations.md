@@ -34,7 +34,6 @@ wsl 本质上运行的是 Linux，因此使用的是 Linux shell，包含：
 - zsh
 - fish
 - sh
-不过 ubuntu 下常用的是 ==bash==
 
 ## 终端（terminal）
 

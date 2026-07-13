@@ -92,6 +92,6 @@ claude code 的核心功能依赖类 Unix 环境，而 wsl + ubuntu 是在 Windo
 
 Ubuntu 提供稳定易用的发行版，WSL 提供轻量高效的兼容层，二者结合，是 Windows 用户能以最低门槛获得最完整的 Claude Code 使用体验
 
-因此wsl + ubuntu 是 Windows 框架下最理想且高效的使用方案
+因此 wsl + ubuntu 是 Windows 框架下最理想且高效的使用方案
 
 通过长期以 claude code 为出发点对该系统框架的使用，可以大大提升对操作系统的理解，也能很好的锻炼逻辑能力
