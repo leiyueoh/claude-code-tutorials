@@ -11,6 +11,8 @@ next article  [[agent]]
 
 ==下面有四种 skill 格式，前面三种仅为了解，一般适用于开发使用；但是我们日常使用和最方便使用的是最后 front matter + markdown 格式==
 
+**参考文章**：[[Lessons from building Claude Code How we use skills]]
+
 ---
 
 ## SON Schema 格式（函数调用型）
@@ -277,6 +279,8 @@ npx skills add https://github.com/vercel-labs/agent-browser --skill agent-browse
 ---
 
 ### skill-cteator
+
+**参考文章**：[[如何写出工业级 Skill]]
 
 **核心功能**：
 

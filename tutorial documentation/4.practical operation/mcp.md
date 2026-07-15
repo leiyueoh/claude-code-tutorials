@@ -7,6 +7,8 @@ next article  [[x-article skill]]
 
 ---
 
+**参考文章**：[[Building agents that reach production systems with MCP]]
+
 # 1. Model Context Protocol (MCP) 概述
 
 **Model Context Protocol (MCP)** 是由 Anthropic 于 2024 年底推出的一项开源开放标准协议。它的核心定位是作为 **AI 大模型与外部数据源、工具之间的通用接口规范**（类似于软件工程领域的“USB-C”接口或针对 AI 领域的 LSP 语言服务协议）

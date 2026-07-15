@@ -99,6 +99,8 @@ Shift + Tab  **切换权限模式**
 
 ==/effort  **切换 claude code 的聪明程度**==
 
+**参考文章**：[[Model and effort in Claude Code - knowing more vs. trying harder]]
+
 ![[instructions-9.png]]
 
 - 一般使用 high 即可
