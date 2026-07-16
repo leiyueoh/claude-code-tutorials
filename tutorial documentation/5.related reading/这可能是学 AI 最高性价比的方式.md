@@ -2,6 +2,14 @@
 title: 这可能是学 AI 最高性价比的方式
 source: https://x.com/Aoyi21/status/2064975015200829457
 ---
+[[index]]
+
+previous article  [[跑了上千张写真图片后，我总结了一套方法论]]
+
+next article  [[How To Actually Design With AI]]
+
+---
+
 ![Image](https://pbs.twimg.com/media/HKhDtnabkAAdDyN?format=jpg&name=large)
 
 AI 时代日新月异，每次新东西出来都感觉跟不上

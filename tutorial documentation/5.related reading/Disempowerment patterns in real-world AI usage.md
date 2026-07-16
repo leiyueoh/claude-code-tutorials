@@ -2,6 +2,14 @@
 title: Disempowerment patterns in real-world AI usage
 source: https://www.anthropic.com/research/disempowerment-patterns
 ---
+[[index]]
+
+prexious artice  [[2030年大预言：会用AI的人进入新贵族，不会用的人变成数字农奴]]
+
+next article  [[为什么搞 AI，一定要进大厂]]
+
+---
+
 ## 现实世界人工智能使用中的权力剥夺模式
 
 2026年1月28日

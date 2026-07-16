@@ -2,6 +2,14 @@
 title: AI 裁员潮真的来了，但被替代的不是工作，是这一类人
 source: https://x.com/wangray/status/2056341368034001365
 ---
+[[index]]
+
+previous article  [[AI 时代真正的地主，不是卖 token 的人]]
+
+next article  [[2028 Two scenarios for global AI leadership]]
+
+---
+
 ![Image](https://pbs.twimg.com/media/HImSPZBa8AAErWU?format=jpg&name=large)
 
 2026 年 4 月底，Meta 公开宣布裁员一万四千人——其中八千人直接走人，另外六千个开放岗位永久冻结。差不多同一周，微软在 51 年历史上首次推出员工买断计划，仅 2025 年这家公司就让一万五千人离开。如果你以为这只是经济周期里常见的“过冬”，那可能误解了正在发生的事。

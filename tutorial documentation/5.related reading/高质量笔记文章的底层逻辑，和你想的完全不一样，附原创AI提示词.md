@@ -1,8 +1,15 @@
 ---
-title: "高质量笔记文章的底层逻辑，和你想的完全不一样，附原创AI提示词"
-source: "https://x.com/xionghuanwei/status/2070499112512864524"
-date: "2026-07-15T23:23:27+08:00"
+title: 高质量笔记文章的底层逻辑，和你想的完全不一样，附原创AI提示词
+source: https://x.com/xionghuanwei/status/2070499112512864524
 ---
+[[index]]
+
+previous article  [[How To Actually Design With AI]]
+
+next article  [[329 元单课卖 1,700 份，全年营收 120 万、利润过 100 万——「卖铲子」的人比「挖金子」的赚]]
+
+---
+
 ![Image](https://pbs.twimg.com/media/HLvj77kWkAAgbZi?format=jpg&name=large)
 
 **为什么你的笔记和文章没人看？问题出在动笔之前，附原创AI提示词。**

@@ -2,6 +2,14 @@
 title: How To Actually Design With AI
 source: https://x.com/LexnLin/status/2076422557180608888
 ---
+[[index]]
+
+previous article  [[这可能是学 AI 最高性价比的方式]]
+
+next article  [[高质量笔记文章的底层逻辑，和你想的完全不一样，附原创AI提示词]]
+
+---
+
 ![图像](https://pbs.twimg.com/media/HNDvPf3WUAASbRg?format=jpg&name=large)
 
 设计一直是人工智能难以匹敌人类能力的领域之一。但大多数人仍然误解了人工智能设计的真正含义。人工智能设计并非意味着让它包办一切。想法、方向、感觉和创意仍然应该来自你。

@@ -2,6 +2,14 @@
 title: 为什么搞 AI，一定要进大厂
 source: https://x.com/cxjwin/status/2056530912821846030
 ---
+[[index]]
+
+previous article  [[Disempowerment patterns in real-world AI usage]]
+
+next article  [[OPENTSC首发：公司正在死去，公会正在崛起-我开源了一套操作系统，让一个人带着一群AI活成一支军团]]
+
+---
+
 ![Image](https://pbs.twimg.com/media/HInuWS7aAAAG2DZ?format=png&name=large)
 
 抱歉，标题党了，故意的。但下面想讲的事情是认真的，希望你能耐心看完再决定喷不喷。

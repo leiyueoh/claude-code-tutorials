@@ -45,7 +45,22 @@ https://github.com/leiyueoh/claude-code-tutorials
 # 5. related reading（相关阅读）
 
 - 深度思考类
-	- 
+	- [[2030年大预言：会用AI的人进入新贵族，不会用的人变成数字农奴]]
+	- [[Disempowerment patterns in real-world AI usage]]
+	- [[为什么搞 AI，一定要进大厂]]
+	- [[OPENTSC首发：公司正在死去，公会正在崛起-我开源了一套操作系统，让一个人带着一群AI活成一支军团]]
+	- [[AI 时代真正的地主，不是卖 token 的人]]
+	- [[AI 裁员潮真的来了，但被替代的不是工作，是这一类人]]
+	- [[2028 Two scenarios for global AI leadership]]
+	- 三年神局系列
+		- [[三年封神局 ：写给还在等降本增效兑现的人]]
+		- [[三年封神局：我们是最后一代把货币当回事的人类]]
+	- 架构师系列
+		- [[构架师教程：前传]]
+		- [[构架师教程：游戏人生]]
+		- [[构架师教程：神话时代]]
+		- [[构架师教程：Foundation Engineering]]
+		- [[构架师教程：熵与法典]]
 
 - 使用技巧类
 	- [[跑了上千张写真图片后，我总结了一套方法论]]
@@ -53,7 +68,11 @@ https://github.com/leiyueoh/claude-code-tutorials
 	- [[How To Actually Design With AI]]
 
 - 变现路径类
-	- 
+	- [[高质量笔记文章的底层逻辑，和你想的完全不一样，附原创AI提示词]]
+	- [[329 元单课卖 1,700 份，全年营收 120 万、利润过 100 万——「卖铲子」的人比「挖金子」的赚]]
+	- [[AI 内容创作变现零基础入门指南（短文、长文、图片、短视频、长视频）]]
+	- [[把一本书做成 AI skill，挂闲鱼 ¥19.9、小红书 ¥99~199——保姆级教程，全部开源直接抄！]]
+	- [[普通人财富杠杆：写作 + AI]]
 
 # 6. practical projects（实践项目）
 

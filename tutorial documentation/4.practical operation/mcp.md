@@ -3,7 +3,7 @@
 
 previous article  [[agent]]
 
-next article  [[x-article skill]]
+next article  [[2030年大预言：会用AI的人进入新贵族，不会用的人变成数字农奴]]
 
 ---
 

@@ -2,7 +2,15 @@
 title: "2028: Two scenarios for global AI leadership"
 source: https://www.anthropic.com/research/2028-ai-leadership
 ---
-## 2028年：全球人工智能领导地位的两种情景
+[[index]]
+
+previous article  [[AI 裁员潮真的来了，但被替代的不是工作，是这一类人]]
+
+next article  [[三年封神局 ：写给还在等降本增效兑现的人]]
+
+---
+
+# 2028年：全球人工智能领导地位的两种情景
 
 2026年5月14日
 

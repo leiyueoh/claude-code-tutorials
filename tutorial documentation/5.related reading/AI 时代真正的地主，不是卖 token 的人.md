@@ -2,6 +2,14 @@
 title: AI 时代真正的地主，不是卖 token 的人
 source: https://x.com/wangray/status/2051636150386004328
 ---
+[[index]]
+
+previous article  [[OPENTSC首发：公司正在死去，公会正在崛起-我开源了一套操作系统，让一个人带着一群AI活成一支军团]]
+
+next article  [[AI 裁员潮真的来了，但被替代的不是工作，是这一类人]]
+
+---
+
 ![Image](https://pbs.twimg.com/media/HHgNSzKacAAa74W?format=jpg&name=large)
 
 AI 圈似乎正在逐渐形成一个共识：
