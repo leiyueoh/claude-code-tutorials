@@ -1,7 +1,6 @@
 ---
-title: "构架师教程：Foundation Engineering"
-source: "https://x.com/dashen_wang/status/2069293474206376042"
-date: "2026-07-16T08:30:36+08:00"
+title: 构架师教程：Foundation Engineering
+source: https://x.com/dashen_wang/status/2069293474206376042
 ---
 [[index]]
 

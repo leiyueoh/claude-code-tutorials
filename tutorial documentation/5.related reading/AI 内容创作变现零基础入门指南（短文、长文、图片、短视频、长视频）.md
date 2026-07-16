@@ -2,6 +2,14 @@
 title: AI 内容创作变现零基础入门指南（短文、长文、图片、短视频、长视频）
 source: https://x.com/Ryrenz/status/2064900447375085823
 ---
+[[index]]
+
+previous article  [[329 元单课卖 1,700 份，全年营收 120 万、利润过 100 万——「卖铲子」的人比「挖金子」的赚]]
+
+next article  [[把一本书做成 AI skill，挂闲鱼 ¥19.9、小红书 ¥99~199——保姆级教程，全部开源直接抄！]]
+
+---
+
 ![Image](https://pbs.twimg.com/media/HKf0AUhWoAEGpG6?format=jpg&name=large)
 
 如果你是个完全的 AI 创作小白，心里大概有两个疑问：AI 到底能做哪些内容？

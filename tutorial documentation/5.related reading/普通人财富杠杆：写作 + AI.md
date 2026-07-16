@@ -1,8 +1,15 @@
 ---
-title: "普通人财富杠杆：写作 + AI"
-source: "https://x.com/isnail/status/2057017197558382880"
-date: "2026-07-16T09:08:44+08:00"
+title: 普通人财富杠杆：写作 + AI
+source: https://x.com/isnail/status/2057017197558382880
 ---
+[[index]]
+
+previous article  [[把一本书做成 AI skill，挂闲鱼 ¥19.9、小红书 ¥99~199——保姆级教程，全部开源直接抄！]]
+
+next article  [[x-article skill]]
+
+---
+
 ![Image](https://pbs.twimg.com/media/HIv7N-EXwAAU3U3?format=jpg&name=large)
 
 **你看了很多书，听了很多课，收藏了很多资料，但如果工资没变、能力没涨、职位没升、客户和作品都没有增加。**

@@ -1,8 +1,15 @@
 ---
-title: "把一本书做成 AI skill，挂闲鱼 ¥19.9、小红书 ¥99~199——保姆级教程，全部开源直接抄！"
-source: "https://x.com/AYi_AInotes/status/2061419197154857286"
-date: "2026-07-16T09:07:41+08:00"
+title: 把一本书做成 AI skill，挂闲鱼 ¥19.9、小红书 ¥99~199——保姆级教程，全部开源直接抄！
+source: https://x.com/AYi_AInotes/status/2061419197154857286
 ---
+[[index]]
+
+previous article  [[AI 内容创作变现零基础入门指南（短文、长文、图片、短视频、长视频）]]
+
+next article  [[普通人财富杠杆：写作 + AI]]
+
+---
+
 ![Image](https://pbs.twimg.com/media/HJwQj5UXcAA3ux1?format=jpg&name=large)
 
 先说个实在的：你书架上读过的每一本书，都可能是一个能挂闲鱼、小红书卖钱的 AI skill。我用 Claude Opus 4.8 手把手演示怎么把一本书做成了能随时调用的 skill，闲鱼挂 19.9，小红书客单价搞能挂到 99~199。整套方法 + Prompt + 开源 skill 全给你，小白零基础照着抄，最后还有怎么变现的思考。
